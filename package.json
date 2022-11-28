@@ -1,0 +1,31 @@
+{
+  "name": "mdblog-wds",
+  "version": "0.1.0",
+  "description": "Just trying out node, express, mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saddamhshovon/mdblog-wds.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "ejs",
+    "express",
+    "mongo"
+  ],
+  "author": "saddamhshovon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saddamhshovon/mdblog-wds/issues"
+  },
+  "homepage": "https://github.com/saddamhshovon/mdblog-wds#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3"
+  }
+}
